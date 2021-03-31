@@ -15,8 +15,8 @@
     <h1 style="text-align: center; font-size: 87pt; color: white">ZK Trader</h1>
     <h2 style="text-align: center; color: white">
       Source code has available in
-      <a href="https://github.com/mohsen158/"
-        >https://github.com/mohsen158/</a
+      <a href="https://github.com/mohsen158/zkTrader"
+        >github.com/mohsen158/zkTrader</a
       >
     </h2>
     <h3 style="text-align: center; color: white">
