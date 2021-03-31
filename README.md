@@ -1,6 +1,10 @@
-# project
+ 
 
 ## ZK Trader 
+check out DAPP at 
+> https://mohsen158.github.io/zktrader/
+
+
 ```
 npm install
 ```
